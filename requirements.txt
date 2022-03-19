@@ -4,3 +4,4 @@ ipykernel
 sklearn
 matplotlib
 plotly
+nbformat
