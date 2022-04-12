@@ -6,4 +6,5 @@ Para la ejecución del proyecto se ha utilizado el lenguaje de programación Pyt
 
 También se ha utilizado Excel para la organización y modificación de algunas columnas en los datasets.
 
-Para hacer uso de ello se recomienda instalar los paquetes utilizando el sigueinte comando en la terminal: <code> pip install -r requirements.txt </code>
+Para hacer uso de ello se recomienda instalar los paquetes utilizando el sigueinte comando en la terminal:
+<code> pip install -r requirements.txt </code>
